@@ -1,18 +1,1 @@
-| Type  | Host | Points To              |
-| ----- | ---- | ---------------------- |
-| CNAME | www  | ontapdistributors.github.io |
-
-
-
-
-| Type | Host | Points To       |
-| ---- | ---- | --------------- |
-| A    | @    | 185.199.108.153 |
-| A    | @    | 185.199.109.153 |
-| A    | @    | 185.199.110.153 |
-| A    | @    | 185.199.111.153 |
-
-
-
 ontapdistributors.co.za
-ontapdistributors.github.io
